@@ -6,7 +6,6 @@
 # The program then calls the speak() method for each object in the given order.
 
 
-
 class Dog:    
     def speak(self):
         print("Woof!")
